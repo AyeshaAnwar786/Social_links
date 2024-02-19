@@ -1,0 +1,118 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.main-container{
+    border-radius: 19px;
+    margin-top: 90px;
+    background-color: #000000d9;
+    height: 735px;
+    width: 500px;
+    margin-left: 417px;
+
+}
+.img{
+    margin-left: 214px;
+    /* justify-content: center; */
+    /* text-align: center; */
+    height: 90px;
+    width: 90px;
+    border-radius: 51px;
+    margin-top: 56px;
+}
+.Jessica{
+    font-size: 30px;
+    font-family: sans-serif;
+    margin-left: 148px;
+    color: #fffffffa;
+    margin-top: 37px;
+}
+.london{
+    font-size: 19px;
+    font-family: sans-serif;
+    margin-left: 149px;
+    color: #a4e465fc;
+    margin-top: -21px;
+}
+.developer{
+    font-size: 19px;
+    font-family: sans-serif;
+    margin-left: 87px;
+    color: #ffffffc9;
+    margin-top: 34px;
+}
+.github{
+    border-radius: 8px;
+    margin-left: 55px;
+    width: 396px;
+    height: 50px;
+    background-color: #7a7a7abf;
+    margin-top: 28px;
+}
+.git{
+    text-align: center;
+    font-size: 22px;
+    color: white;
+    font-family: sans-serif;
+    padding-top: 12px;
+}
+.Frontend {
+    border-radius: 8px;
+    margin-left: 55px;
+    width: 396px;
+    height: 50px;
+    background-color: #7a7a7abf;
+    margin-top: 30px;
+}
+.Front{
+    text-align: center;
+    font-size: 22px;
+    color: white;
+    font-family: sans-serif;
+    padding-top: 12px;
+}
+.LinkedIn{
+    margin-top: 30px;
+    border-radius: 8px;
+    margin-left: 55px;
+    width: 396px;
+    height: 50px;
+    background-color: #7a7a7abf;
+}
+.link{
+    text-align: center;
+    font-size: 22px;
+    color: white;
+    font-family: sans-serif;
+    padding-top: 12px;
+}
+.Twitter{
+    margin-top: 30px;
+    border-radius: 8px;
+    margin-left: 55px;
+    width: 396px;
+    height: 50px;
+    background-color: #7a7a7abf;
+}
+.Twit{
+    text-align: center;
+    font-size: 22px;
+    color: white;
+    font-family: sans-serif;
+    padding-top: 12px;
+}
+.Instagram{
+    margin-top: 30px;
+    border-radius: 8px;
+    margin-left: 55px;
+    width: 396px;
+    height: 50px;
+    background-color: #7a7a7abf;
+}
+.Insta{
+    text-align: center;
+    font-size: 22px;
+    color: white;
+    font-family: sans-serif;
+    padding-top: 12px;
+}
